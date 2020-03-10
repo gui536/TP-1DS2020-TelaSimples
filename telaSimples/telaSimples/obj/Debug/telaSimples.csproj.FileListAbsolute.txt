@@ -1,0 +1,9 @@
+C:\Users\Professor\source\repos\telaSimples\telaSimples\bin\Debug\telaSimples.exe.config
+C:\Users\Professor\source\repos\telaSimples\telaSimples\bin\Debug\telaSimples.exe
+C:\Users\Professor\source\repos\telaSimples\telaSimples\bin\Debug\telaSimples.pdb
+C:\Users\Professor\source\repos\telaSimples\telaSimples\obj\Debug\telaSimples.csprojAssemblyReference.cache
+C:\Users\Professor\source\repos\telaSimples\telaSimples\obj\Debug\telaSimples.Properties.Resources.resources
+C:\Users\Professor\source\repos\telaSimples\telaSimples\obj\Debug\telaSimples.csproj.GenerateResource.cache
+C:\Users\Professor\source\repos\telaSimples\telaSimples\obj\Debug\telaSimples.exe
+C:\Users\Professor\source\repos\telaSimples\telaSimples\obj\Debug\telaSimples.pdb
+C:\Users\Professor\source\repos\telaSimples\telaSimples\obj\Debug\telaSimples.frmPrincipal.resources
